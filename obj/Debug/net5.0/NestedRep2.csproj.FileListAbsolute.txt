@@ -1,0 +1,16 @@
+A:\Github stuff\NestedRep2\bin\Debug\net5.0\NestedRep2.exe
+A:\Github stuff\NestedRep2\bin\Debug\net5.0\NestedRep2.deps.json
+A:\Github stuff\NestedRep2\bin\Debug\net5.0\NestedRep2.runtimeconfig.json
+A:\Github stuff\NestedRep2\bin\Debug\net5.0\NestedRep2.runtimeconfig.dev.json
+A:\Github stuff\NestedRep2\bin\Debug\net5.0\NestedRep2.dll
+A:\Github stuff\NestedRep2\bin\Debug\net5.0\ref\NestedRep2.dll
+A:\Github stuff\NestedRep2\bin\Debug\net5.0\NestedRep2.pdb
+A:\Github stuff\NestedRep2\obj\Debug\net5.0\NestedRep2.csprojAssemblyReference.cache
+A:\Github stuff\NestedRep2\obj\Debug\net5.0\NestedRep2.GeneratedMSBuildEditorConfig.editorconfig
+A:\Github stuff\NestedRep2\obj\Debug\net5.0\NestedRep2.AssemblyInfoInputs.cache
+A:\Github stuff\NestedRep2\obj\Debug\net5.0\NestedRep2.AssemblyInfo.cs
+A:\Github stuff\NestedRep2\obj\Debug\net5.0\NestedRep2.csproj.CoreCompileInputs.cache
+A:\Github stuff\NestedRep2\obj\Debug\net5.0\NestedRep2.dll
+A:\Github stuff\NestedRep2\obj\Debug\net5.0\ref\NestedRep2.dll
+A:\Github stuff\NestedRep2\obj\Debug\net5.0\NestedRep2.pdb
+A:\Github stuff\NestedRep2\obj\Debug\net5.0\NestedRep2.genruntimeconfig.cache
